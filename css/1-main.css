@@ -1,0 +1,15 @@
+
+.big-box{
+    max-width:1500px;
+}
+
+.box{
+    width:28%;
+    margin-left:4%;
+    margin-top:4%;
+    border-radius:8%;
+    background-color: rgb(255,166,0);
+    float:left;
+    padding-top:28%;
+
+}
